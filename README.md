@@ -1,4 +1,4 @@
-# Elevate Labs intern Task 1
+# Task 1- Responsive HTML page
 
 ## Tech Used:
 - HTML5
